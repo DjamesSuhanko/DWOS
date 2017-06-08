@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>resources/bandeiras/eua.png</file>
+        <file>resources/djamesWatson.png</file>
+        <file>resources/bandeiras/espanha.png</file>
+        <file>resources/bandeiras/brasil.png</file>
+        <file>resources/lupa.png</file>
+        <file>resources/dwos-dna.jpg</file>
+        <file>resources/dwos-dna.png</file>
+    </qresource>
+    <qresource prefix="/i18n">
+        <file>resources/i18n/dwos_en.ts</file>
+        <file>resources/i18n/dwos_en.qm</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/bandeiras/brasil.jpg</file>
+    </qresource>
+</RCC>
